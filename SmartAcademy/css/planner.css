@@ -1,1 +1,0 @@
-.planner-score{display:flex;align-items:center;gap:15px}.score-number{font-size:45px;font-weight:900;color:var(--primary)}.recommendation{border-left:4px solid var(--primary)}.priority-high{border-left-color:var(--danger)}.priority-medium{border-left-color:var(--warning)}.priority-low{border-left-color:var(--success)}
